@@ -22,9 +22,12 @@ const nextConfig = {
     parallelServerCompiles: true,
   },
   webpack: (config) => {
-    config.resolve.alias = {
-      ...config.resolve.alias,
-      'date-fns': require.resolve('date-fns'),
+    config.resolve = {
+      ...config.resolve,
+      alias: {
+        ...config.resolve.alias,
+        'date-fns': './node_modules/date-fns'
+      }
     }
     return config
   }
