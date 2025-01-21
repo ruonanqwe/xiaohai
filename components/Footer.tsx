@@ -37,9 +37,9 @@ export function Footer() {
           <div>
             <h4 className="text-lg font-semibold mb-4">联系我们</h4>
             <ul className="space-y-2">
-              <li className="text-sm text-gray-400">邮箱：contact@xiaohai.com</li>
-              <li className="text-sm text-gray-400">电话：400-123-4567</li>
-              <li className="text-sm text-gray-400">地址：北京市朝阳区科技园100号</li>
+              <li className="text-sm text-gray-400">邮箱：1963876196@qq.com</li>
+              <li className="text-sm text-gray-400">电话：17318132503</li>
+              <li className="text-sm text-gray-400">地址：四川省成都市成华区西林一街富丽锦城</li>
             </ul>
           </div>
           <div>
