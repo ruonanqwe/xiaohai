@@ -31,21 +31,21 @@ export default function ContactPage() {
                     <Phone className="w-6 h-6 text-blue-600 mr-4" />
                     <div>
                       <h3 className="font-semibold mb-1">电话</h3>
-                      <p className="text-gray-600">400-123-4567</p>
+                      <p className="text-gray-600">17318132503</p>
                     </div>
                   </div>
                   <div className="flex items-start">
                     <Mail className="w-6 h-6 text-blue-600 mr-4" />
                     <div>
                       <h3 className="font-semibold mb-1">邮箱</h3>
-                      <p className="text-gray-600">contact@xiaohai.com</p>
+                      <p className="text-gray-600">1963876196@qq.com</p>
                     </div>
                   </div>
                   <div className="flex items-start">
                     <MapPin className="w-6 h-6 text-blue-600 mr-4" />
                     <div>
                       <h3 className="font-semibold mb-1">地址</h3>
-                      <p className="text-gray-600">北京市朝阳区科技园100号</p>
+                      <p className="text-gray-600">四川省成都市成华区西林一街</p>
                     </div>
                   </div>
                 </div>
